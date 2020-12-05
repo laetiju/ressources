@@ -2,11 +2,23 @@
 ![logoyoutube](../assets/logoyoutube.jpg)
 
 ## Les chaines youtube à suivre 
-- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA?feature=subscribe-embed&sub_confirmation=1)
+> [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA?feature=subscribe-embed&sub_confirmation=1)
 
-- [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+> [Freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
-- [Clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+> [Clever programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+
+> [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
+
+> [Telusko](https://www.youtube.com/channel/UC59K-uG2A5ogwIrHw4bmlEg)
+
+> [Codewithharry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww)
+
+> [CodeTutor](https://www.youtube.com/channel/UC3xHg20VI9mKFRaSs1yaicw)
+
+> [Goobar](https://www.youtube.com/channel/UCVysWoMPvvHQMEJvRkslbAQ)
+
+> [Smartherd](https://www.youtube.com/user/smartherd)
 
 ## Vidéos  
 
